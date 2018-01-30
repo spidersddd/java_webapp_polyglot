@@ -9,7 +9,7 @@ public class Polyglot
 
     public String zhMsg()
     {
-        return "你好，世界";
+        return "你好，世界!";
     }
 
     public String spMsg()
